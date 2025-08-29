@@ -1,5 +1,7 @@
 site_name: Capacitações DCCG
 site_url: https://mydomain.org/mysite
+
+# Configuration
 theme:
   name: material
   theme:
@@ -21,4 +23,3 @@ nav:
   - Relatórios: relatorios.md
   - Prestação de Contas: prestacao-contas.md
 
-docs/images/
