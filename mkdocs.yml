@@ -1,4 +1,4 @@
-site_name: Trilha SCPTS
+site_name: Capacitações DCCG
 site_url: https://mydomain.org/mysite
 theme:
   name: material
@@ -13,3 +13,12 @@ theme:
 plugins:
   - blog
 
+nav:
+  - Roteiro: index.md
+  - Legislação do Contrato de Gestão: legislacao.md
+  - Documentos do Contrato: documentos.md
+  - Ciclo Avaliativo: ciclo-avaliatorio.md
+  - Relatórios: relatorios.md
+  - Prestação de Contas: prestacao-contas.md
+
+docs/images/
