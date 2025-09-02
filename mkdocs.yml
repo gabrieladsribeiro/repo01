@@ -1,5 +1,5 @@
 site_name: Capacitações DCCG
-site_url: https://mydomain.org/mysite
+site_url: https://gabrieladsribeiro.github.io/repo01/
 
 # Configuration
 theme:
@@ -17,11 +17,11 @@ plugins:
 
 nav:
   - Roteiro: index.md
-  - Legislação do Contrato de Gestão: legislacao.md
-  - Documentos do Contrato de Gestão:
-    - Documentos: docs/documentos.md
-    - Complementos: docs/descritivos_docs.md
-  - Ciclo Avaliativo: ciclo-avaliatorio.md
-  - Relatórios: relatorios.md
-  - Prestação de Contas: prestacao-contas.md
+  - Documentos do Contrato de Gestão: 
+    - Principal: documentos.md
+    - Descritivos: descritivos_docs.md
+  - Legislação do Contrato de Gestão: 
+    - Principal: legislacao.md
+    - Descritivos Leg: descritivos_leg.md
+
 
