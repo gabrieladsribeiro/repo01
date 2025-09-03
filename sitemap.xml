@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://mydomain.org/mysite/</loc>
-         <lastmod>2025-09-02</lastmod>
+         <loc>https://gabrieladsribeiro.github.io/repo01/</loc>
+         <lastmod>2025-09-03</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/blog/</loc>
-         <lastmod>2025-09-02</lastmod>
+         <loc>https://gabrieladsribeiro.github.io/repo01/Documentos.md/descritivos_doc/</loc>
+         <lastmod>2025-09-03</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/documentos.md/descritivos_docs/</loc>
-         <lastmod>2025-09-02</lastmod>
+         <loc>https://gabrieladsribeiro.github.io/repo01/Leg.md/descritivos_leg/</loc>
+         <lastmod>2025-09-03</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/legislacao.md/descritivos_leg/</loc>
-         <lastmod>2025-09-02</lastmod>
+         <loc>https://gabrieladsribeiro.github.io/repo01/blog/</loc>
+         <lastmod>2025-09-03</lastmod>
     </url>
 </urlset>
