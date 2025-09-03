@@ -16,12 +16,6 @@ plugins:
   - blog
 
 nav:
-  - Roteiro: index.md
-  - Documentos do Contrato de Gestão: 
-    - Principal: documentos.md
-    - Descritivos: descritivos_docs.md
-  - Legislação do Contrato de Gestão: 
-    - Principal: legislacao.md
-    - Descritivos Leg: descritivos_leg.md
-
+  - Início: index.md
+  - Legislação: legislacao.md
 
