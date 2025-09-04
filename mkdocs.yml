@@ -18,4 +18,6 @@ plugins:
 nav:
   - Início: index.md
   - Legislação: legislacao.md
+  - Documentos: documentos.md
+  
 
