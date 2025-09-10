@@ -3,10 +3,14 @@ date:
   created: 2023-12-31
 ---
 
-# Happy new years eve!
+# Celebração do Contrato concluída
 
-We hope you are all having fun and wish you all the best for the new year!
+Estamos à disposição!
+
+Técnico referência do Contrato: Gabriela Ribeiro
+
+gabriela.ribeiro@planejamento.mg.gov.br
+
+Próximos passos: Constituição da Comissão de Avaliação
+
 <!-- more -->
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua.
