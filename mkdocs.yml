@@ -11,6 +11,7 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
+   
 
 plugins:
   - blog
@@ -22,4 +23,17 @@ nav:
   - Documentos: documentos.md
   - Blog: blog/index.md
   
+# Extensions
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.blocks.caption
 
